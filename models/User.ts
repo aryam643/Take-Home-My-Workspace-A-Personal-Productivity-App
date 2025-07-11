@@ -21,7 +21,6 @@ const UserSchema = new mongoose.Schema(
   },
 )
 
-// Create index for email
-UserSchema.index({ email: 1 })
+
 
 export const User = mongoose.models.User || mongoose.model("User", UserSchema)
