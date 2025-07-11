@@ -256,18 +256,6 @@ GROQ_API_KEY=your-groq-api-key
 
 ---
 
-## Future Enhancements
-
-* [ ] Real-time collaboration (WebSockets)
-* [ ] Task reminders & calendar view
-* [ ] File uploads for notes
-* [ ] Better AI model switching (Mixtral, Llama3)
-* [ ] Export notes/tasks
-* [ ] Dark mode
-* [ ] Mobile app (React Native)
-
----
-
 ## License
 
 MIT License
